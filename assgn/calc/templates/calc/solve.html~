@@ -1,0 +1,11 @@
+<a href="{% url 'home' %}"> Calculate Again</a>
+<h1> Your result is </h1>
+{{ result1 }}
+<br/>
+{{ result2 }}
+<br/>
+{{ result3 }}
+<br/>
+{{ result4 }}
+<br/>
+
